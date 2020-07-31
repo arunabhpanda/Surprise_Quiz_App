@@ -1,0 +1,5 @@
+---
+applications:
+ - name: Remote_Education_Quantum
+   random-route: true
+   memory: 64M

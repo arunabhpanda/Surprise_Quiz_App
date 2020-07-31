@@ -1,0 +1,5 @@
+Flask>=1.0.0
+requests
+
+cloudant==2.13.0
+ 
